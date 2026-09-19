@@ -1,11 +1,4 @@
 # Hi there, I'm a Systems & AI Engineer 👋 
-
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
