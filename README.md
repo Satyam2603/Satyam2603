@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm a Systems & AI Engineer 👋 
 
-<!--
-**Satyam2603/Satyam2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I specialize in building production-grade **Artificial Intelligence**, **Deep Learning**, and **Computer Vision** solutions, bridging the gap between high-level foundational models and highly constrained **Edge AI / Embedded Systems**. I design low-latency pipelines, deploy machine learning frameworks down to silicon, and build robust architectures across the full stack.
+
+- 🛠️ **Currently Focused On:** Scalable LLM/VLM deployment, microcontrollers orchestration, and high-performance Edge pipelines.
+- ⚡ **Fun Fact:** When I'm not optimizing compilation graphs or tuning neural networks, you can find me hiking through mountain landscapes or playing acoustic guitar riffs.
+
+---
+
+### 🛠️ Core Technology Stack
+
+#### 🧠 Artificial Intelligence & Deep Learning
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+#### 📟 Hardware & Embedded Systems
+![](https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+#### 🌐 Cloud & DevOps Pipeline
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+---
+
+### 📊 Real-Time GitHub Engineering Metrics
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
+### 📈 Contribution Velocity
+[![GitHub Streak](https://demolab.com)](https://git.io)
+
+---
+
+### 🤝 Let's Connect!
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
