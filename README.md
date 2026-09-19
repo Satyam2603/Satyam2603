@@ -21,11 +21,11 @@ I specialize in building production-grade **Artificial Intelligence**, **Deep Le
 ![](https://shields.io)
 
 #### 📟 Hardware & Embedded Systems
-![](https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://shields.io)
 ![](https://shields.io)
 ![](https://shields.io)
+![](https://shields.io)
+
 
 #### 🌐 Cloud & DevOps Pipeline
 ![](https://shields.io)
